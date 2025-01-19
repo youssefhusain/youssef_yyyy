@@ -1,0 +1,6 @@
+parent(ibrahim,zein).
+parent(ibrahim,ahmed).
+parent(ibrahim,X).
+
+
+
